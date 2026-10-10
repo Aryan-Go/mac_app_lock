@@ -1,0 +1,3 @@
+import AppLockKit
+
+AppLockKit.run()
